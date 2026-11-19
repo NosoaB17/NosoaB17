@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Son 👋
 
-<!--
-**NosoaB17/NosoaB17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Curious about what's possible. Motivated by what's useful.
 
-Here are some ideas to get you started:
+## Why I build
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas into things people can actually use.
+Building is how I explore questions, learn something new,
+and make small improvements to everyday life.
+
+## What I'm working toward
+
+- Creating things that matter beyond the code
+- Turning curiosity into finished, useful projects
+- Learning openly and improving through real feedback
+
+The tools will change. The goal stays the same:
+understand a problem, make something useful, and keep improving.
